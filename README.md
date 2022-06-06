@@ -1,1 +1,1 @@
-# lock-ethereum-smart-contract
+# Lock Ethereum Smart Contract
